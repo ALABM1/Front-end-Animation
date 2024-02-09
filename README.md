@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-# FirstProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.10.
+This project was g![Login](https://github.com/ALABM1/Front-end-Animation/assets/115515932/358ca962-f968-4c91-8996-4b76cda9fbdc)
+enerated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.10.
+
 
 ## Development server
 
@@ -28,5 +28,3 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 =======
 # Front-end-Animation
-![Login](https://github.com/ALABM1/Front-end-Animation/assets/115515932/5bdd8d64-31c9-457e-91fc-e254622e875f)
->>>>>>> 9d5b6fd3403ba4c43307e4599102dc87e14fd543
