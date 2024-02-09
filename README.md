@@ -1,6 +1,6 @@
 
-This project was g![Login](https://github.com/ALABM1/Front-end-Animation/assets/115515932/358ca962-f968-4c91-8996-4b76cda9fbdc)
-enerated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.10.
+![Login](https://github.com/ALABM1/Front-end-Animation/assets/115515932/358ca962-f968-4c91-8996-4b76cda9fbdc)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.10.
 
 
 ## Development server
